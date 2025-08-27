@@ -1,0 +1,1 @@
+The Software Development Practicum aims to strengthen programming fundamentals while encouraging exploration, inquiry, and teamwork. Students apply prior knowledge-like data structures, loops, conditionals, and OOP-to develop computer programs and applications.
